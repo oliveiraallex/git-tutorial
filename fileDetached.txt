@@ -1,3 +1,5 @@
 fileDetached
 this will create a conflict
 this line too
+editing the file
+put some data
